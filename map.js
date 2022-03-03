@@ -1,8 +1,8 @@
 var map = L.map("map", {
   center: [52.51281891416161, 13.38923196153867],
-  zoom: 17,
+  zoom: 13,
  
-  minZoom: 15,
+  minZoom: 13,
 });
 
 var marker = L.marker([52.51281891418662, 13.389221317200835]).addTo(map);
