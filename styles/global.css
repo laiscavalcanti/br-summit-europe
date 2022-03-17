@@ -183,6 +183,18 @@ html {
 .text_bold {
   font-weight: bold;
 }
+
+.text_next_img {
+    font-weight: bold;
+}
+
+.img {
+  width: 100px;
+  height: 100px;
+  margin: 0;
+  align-items: center;
+}
+
 .text_italic {
   font-style: italic;
 }
@@ -541,6 +553,16 @@ html {
   font-weight: 500;
   margin: var(--spacing-06) 0 var(--spacing-06) 0;
 }
+
+.names_img {
+  font-family: "Lato", sans-serif;
+  color: var(--primary);
+  font-weight: 500;
+  margin: 0;
+  vertical-align: middle;
+  padding-bottom: 10px;
+}
+
 .title_who{
   font-family: "Lato", sans-serif;
   color: var(--primary);
