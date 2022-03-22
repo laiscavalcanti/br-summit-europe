@@ -230,6 +230,21 @@ html {
   font-weight: 800;
   text-transform: uppercase;
 }
+
+.external_link_2 {
+  text-decoration: none;
+  padding: var(--spacing-03) var(--spacing-05) var(--spacing-03)
+    var(--spacing-05);
+  border: 3px solid var(--tertiary);
+  border-radius: 2px;
+  background-color: var(--tertiary);
+  color: var(--black);
+  font-family: "Lato", sans-serif;
+  font-size: var(--typography-18);
+  font-weight: 800;
+  text-transform: u
+}
+
 .external_link:hover {
   border: 3px solid var(--primary);
   color: var(--secondary);
