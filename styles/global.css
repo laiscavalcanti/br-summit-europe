@@ -369,7 +369,7 @@ html {
 }
 
 .text_schedule {
-  width: 70%;
+  width: 100%;
   font-weight: 300;
   color: var(--tertiary);
   line-height: var(--spacing-07);
