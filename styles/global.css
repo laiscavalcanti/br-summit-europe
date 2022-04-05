@@ -261,8 +261,8 @@ html {
   margin-top: var(--spacing-10);
 }
 .column {
-  margin: var(--spacing-07);
-  padding: var(--spacing-07);
+  margin: var(--spacing-06);
+  padding: var(--spacing-06);
   border-radius: 10px;
   border: 2px solid var(--primary);
   box-shadow: 0 6px 0 var(--primary);
