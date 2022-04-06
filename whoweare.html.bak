@@ -51,21 +51,21 @@
 				  <div class="row" style="justify-content: center">
 					<div class="col-2 text-center">
 					  <img class="img_about_us" src="assets/cinthia.jpg" alt="">
-					  <div class="text-center font_family">
+					  <div class="text-center text_info_schedule">
 						<i class="text_next_img">Cinthia Assis</i>
 						<br>Master of Public Policy 2023
 					  </div>
 					</div>
 					<div class="col-2 text-center">
 					  <img class="img_about_us" src="assets/joao.jpg" alt="">
-					  <div class="text-center font_family">
+					  <div class="text-center text_info_schedule">
 						<i class="text_next_img">João Vitor Silva Fonseca</i>
 						<br>Executive Master of Public Administration 2023
 					  </div>
 					</div>
 					<div class="col-2 text-center">
 					  <img class="img_about_us" src="assets/jose.jpeg" alt="">
-					  <div class="text-center font_family">
+					  <div class="text-center text_info_schedule">
 						<i class="text_next_img">Jose Campos de Toledo</i>
 						<br>Master of Public Policy 2023
 					  </div>
@@ -76,21 +76,21 @@
 				  <div class="row" style="justify-content: center">
 					<div class="col-2 text-center">
 					  <img class="img_about_us" src="assets/anna.png" alt="">
-					  <div class="text-center font_family">
+					  <div class="text-center text_info_schedule">
 						<i class="text_next_img">Anna Deniz</i>
 						<br>Master of Data Science for Public Policy 2023
 					  </div>
 					</div>
 					<div class="col-2 text-center">
 					  <img class="img_about_us" src="assets/gabriel.jpg" alt="">
-					  <div class="text-center font_family">
+					  <div class="text-center text_info_schedule">
 						<i class="text_next_img">Gabriel da Silva Zech</i>
 						<br>Master of Data Science for Public Policy 2023
 					  </div>
 					</div>
 					<div class="col-2 text-center">
 					  <img class="img_about_us" src="assets/guilherme.jpeg" alt="">
-					  <div class="text-center font_family">
+					  <div class="text-center text_info_schedule">
 						<i class="text_next_img">Guilherme Cassaro</i>
 						<br>Master of Public Policy 2019
 					  </div>
@@ -101,14 +101,14 @@
 				  <div class="row" style="justify-content: center">
 					<div class="col-2 text-center">
 					  <img class="img_about_us" src="assets/alan.jpg" alt="">
-					  <div class="text-center font_family">
+					  <div class="text-center text_info_schedule">
 						<i class="text_next_img">Alan Ichilevici de Oliveira</i>
 						<br>Master of Public Policy 2022
 					  </div>
 					</div>
 					<div class="col-2 text-center">
 					  <img class="img_about_us" src="assets/debora.jpg" alt="">
-					  <div class="text-center font_family">
+					  <div class="text-center text_info_schedule">
 						<i class="text_next_img">Debora Ferreira</i>
 						<br>Master of Public Policy 2018
 					  </div>
@@ -119,14 +119,14 @@
 				  <div class="row" style="justify-content: center">
 					<div class="col-2 text-center">
 					  <img class="img_about_us" src="assets/camila.jpeg" alt="">
-					  <div class="text-center font_family">
+					  <div class="text-center text_info_schedule">
 						<i class="text_next_img">Camila Bertoni Sanches</i>
 						<br>Master of Public Policy 2021
 					  </div>
 					</div>
 					<div class="col-2 text-center">
 					  <img class="img_about_us" src="assets/carolina.jpg" alt="">
-					  <div class="text-center font_family">
+					  <div class="text-center text_info_schedule">
 						<i class="text_next_img">Carolina Figueiredo</i>
 						<br>Executive Master of Public Administration 2022
 					  </div>
